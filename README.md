@@ -1,6 +1,6 @@
 # Network Automation using Ansible
 
-# Ansible agentless architecture
+### Ansible agentless architecture
 Does not requires a custom agent on managed hosts
 
 ANSIBLE_CONFIG enviroment variable points to ansible config file. 
@@ -211,3 +211,9 @@ Define the role content
 Use the role in play.
 
 Never share secret in a role as these are meant to be shared.
+
+### Miscellaneous commands
+Copy: To copy a file to managed hosts
+File: To make sure that the file, directory, link exists 
+Synchronize: To copy entire content of a directory
+Lineinfile: To make sure certain line exists in a file. 
