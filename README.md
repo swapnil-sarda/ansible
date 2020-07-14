@@ -23,7 +23,7 @@ To remove something, change the state to "absent"
 ## Ansible consists of following concepts
 
 ### Tasks:
-Granular component of the ansible which in turn is a part of a playbook.
+Granular component of the ansible, part of the playbook focusing on statement and hosts.
 
 ### Playbook
 Playbook can have multiple modules.
