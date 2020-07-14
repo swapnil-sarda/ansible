@@ -191,7 +191,7 @@ Those variables are replaced with their values when the template is deployed.
 
 Template, Filter, Lookup plugin
 
-### Ansible ROles
+### Ansible Roles
 Creating Roles
 Ansible roles allow you to make automation code more reusable .
 Provide packaged tasks that can be configured through variables.
